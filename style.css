@@ -81,13 +81,13 @@ picture {
 
 @font-face {
 	font-family: 'Figtree';
-	src: url('/assets/fonts/Figtree/static/Figtree-Medium.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/MBaktygul/blog-card/main/assets/fonts/Figtree/static/Figtree-Medium.ttf') format('truetype');
 	font-weight: 600;
 }
 
 @font-face {
 	font-family: 'Figtree';
-	src: url('/assets/fonts/Figtree/static/Figtree-ExtraBold.ttf') format('truetype');
+	src: url('https://raw.githubusercontent.com/MBaktygul/blog-card/main/assets/fonts/Figtree/static/Figtree-ExtraBold.ttf') format('truetype');
 	font-weight: 700;
 }
 
